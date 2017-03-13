@@ -2,16 +2,16 @@ package mavenTest;
 
 import org.testng.annotations.Test;
 
-public class SearchPage {
-	
+public class HomePage {
+
 	@Test
 	public void SampleTest1(){
-		System.out.println("SearchPage : Sample Test 1");
+		System.out.println("HomePage : Sample Test 1");
 	}
 	
 	@Test
 	public void SampleTest2(){
-		System.out.println("SearchPage : Sample Test 2");
+		System.out.println("HomePage : Sample Test 2");
 	}
 
 }
